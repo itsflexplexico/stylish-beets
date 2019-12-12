@@ -21,3 +21,18 @@ h1, h2 {
   font-family: "PT Sans";
   font-weight: bold;
 }
+
+figcaption {
+  font-size: .8rem;
+  text-align: center;
+  font-style: italic;
+}
+
+li {
+  font-size: .8rem;
+}
+
+ol li {
+  font-size: 1.125rem;
+  list-style-type: none;
+}
