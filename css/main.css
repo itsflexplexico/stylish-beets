@@ -36,3 +36,24 @@ ol li {
   font-size: 1.125rem;
   list-style-type: none;
 }
+
+nav > ol > li a:link {
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "PT Sans",sans-serif;
+  color: #8f2440;
+}
+
+nav > ol > li a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
+.smallp {
+  font-size: .8rem;
+}
+
+.germ {
+  font-size: 1.125rem;
+  font-style: italic;
+}
